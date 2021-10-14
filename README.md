@@ -14,3 +14,5 @@ test
 ### Results ###
 
 ### Summary ###
+Trip duration by time of year
+Average distance based on start/end & lat/long
