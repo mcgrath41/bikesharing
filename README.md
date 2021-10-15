@@ -38,3 +38,5 @@ The final page in the Story is another heat map of the number of bike trips by w
 Based on the provided data, it can be assumed that a bike-sharing business would do well in Des Moines. If potential investors are still undecided, it is recommended that the following analysis & visualizations be added to the project:
 1. A breakdown of the number of bikes rented from each station.
 2. A heatmap of the number of bikes rented by weekday by age.  
+
+Again the visualizations displayed here can be accessed and interacted with (e.g. filters) from the Tableau Story [linked here](https://public.tableau.com/shared/QTSRTRWWS?:display_count=n&:origin=viz_share_link).
